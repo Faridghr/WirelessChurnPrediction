@@ -5,7 +5,7 @@ This project aims to predict wireless account churn and identify key features dr
 You are collaborating with a fellow Data Scientist on a business-critical wireless account retention project. The project is concerned with modelling contract terminations (i.e., churn) to help maintain and grow the revenue generating base. The goals for the model are to predict wireless churn and take action, such as special offers, to keep accounts.
 
 ## Materials Provided:
-- **Datasets**: [Link to datasets](insert_link)
+- **Datasets**: [Link to datasets](dataset)
 - **Brief Overview**: Your colleague has provided a brief overview on the project’s objectives.
 
 ## Notes on the Materials Provided:
