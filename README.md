@@ -32,7 +32,7 @@ Which features are driving churn?
 4. Include your Jupyter Notebook with comprehensive analysis in markdown format.
 
 ## Project Structure
-- **dataset/**: Contains dataset used for the project.
+- **dataset/**: Contains [datasets](dataset) used for the project.
 - **src/**: Contains Python scripts for data preprocessing, model training, and evaluation.
 - **report/**: Stores [Report](report) files.
 
@@ -46,8 +46,7 @@ Which features are driving churn?
 - Seaborn
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/Faridghr/FraudDetectivePy.git`
-2. Navigate to the project directory: `cd FraudDetectivePy`
+1. Clone the repository: `git clone https://github.com/Faridghr/WirelessChurnPrediction.git`
+2. Navigate to the project directory: `cd WirelessChurnPrediction`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Download the dataset and extract it to the `dataset` folder.
-5. Run the main script to preprocess data, train models, and evaluate performance: `src/FraudDetectivePy.ipynb`
+4. Run the main script to preprocess data, train models, and evaluate performance: `src/WirelessChurnPrediction.ipynb`
