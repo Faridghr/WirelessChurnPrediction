@@ -34,7 +34,7 @@ Which features are driving churn?
 ## Project Structure
 - **dataset/**: Contains dataset used for the project.
 - **src/**: Contains Python scripts for data preprocessing, model training, and evaluation.
-- **report/**: Stores report files.
+- **report/**: Stores [Report](report) files.
 
 ## Dependencies
 - Python
